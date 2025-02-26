@@ -1,0 +1,38 @@
+:root {
+    --primary: #00006f;
+    --secondary: #eee;
+    --terciary: #222;
+}
+body {
+    background-color: #ddd;
+}
+header {
+    background-color: var(--primary);
+}
+h1 {
+    color: var(--secondary);
+}
+#center_y{
+    margin-top: 13%;
+}
+#banner {
+    background-color: var(--primary);
+    padding: 1%;
+}
+#form{
+    padding: 1%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#banner_text{
+    color: var(--secondary)
+}
+#border{
+    background-color: var(--secondary);
+    padding: 0%;
+    border-style: solid;
+    border-width: 1px;
+}
+#spaced{
+    padding: 2%;
+}
